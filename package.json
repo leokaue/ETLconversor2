@@ -1,0 +1,17 @@
+{
+  "name": "etlconversor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.2.3",
+    "mssql": "^12.1.0"
+  }
+}
